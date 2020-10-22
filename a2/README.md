@@ -12,7 +12,7 @@ The relevant Toxicity, aggression, and personal attacks datasets are available i
 - [Personal Attacks](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Personal_Attacks/4054689)
 
 Among these three, I have used Aggression and Personal Attacks for this assignment.
-In case these links are unavailable, the download datasets are included in `a2/data` directory.
+Since the dataset is large, instead of providing the downloaded dataset in this repository, I included the downloading command in the notebook.
 
 ## Summary of Analysis
 
