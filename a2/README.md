@@ -14,8 +14,15 @@ The relevant Toxicity, aggression, and personal attacks datasets are available i
 Among these three, I have used Aggression and Personal Attacks for this assignment.
 In case these links are unavailable, the download datasets are included in `a2/data` directory.
 
-
 ## Summary of Analysis
+
+Here are some plots for the distribution analysis on Personal Attacks data
+![Personal Attacks age group histogram](PA_age_group_hist.png)
+![Personal Attacks gender histogram](PA_gender_hist.png)
+
+We found that there might be potential bias in the distribution of demographics within the workers who labeled the Wikipedia Talk corpus with Personal Attacks.
+
+In addition, we found that some demographics have tendency to label Aggression score with more negetive score than other demographics.
 
 ## Plots
 Code for generating plots is included in the notebook (`a2/hcds-a2-data-bias.ipynb`).
