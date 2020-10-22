@@ -17,13 +17,15 @@ In case these links are unavailable, the download datasets are included in `a2/d
 ## Summary of Analysis
 
 Here are some plots for the distribution analysis on Personal Attacks data
+### Personal Attacks age group distribution
 ![Personal Attacks age group histogram](PA_age_group_hist.png)
 
-
+### Personal Attacks gender distribution
 ![Personal Attacks gender histogram](PA_gender_hist.png)
 
 We found that there might be potential bias in the distribution of demographics within the workers who labeled the Wikipedia Talk corpus with Personal Attacks.
 
+### Aggression labeliing behavior
 In addition, we found that some demographics have tendency to label Aggression score with more negetive score than other demographics.
 
 ## Plots
