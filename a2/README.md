@@ -1,6 +1,6 @@
 # A2: Bias in data
 
-## Reproduce
+## [Reproduce!](https://colab.research.google.com/drive/1DzmKJGbbcoyH9Y00PLddIVx0R2DtIA9k?usp=sharing)
 You can reproduce the same result by running the code in this [Colab](https://colab.research.google.com/drive/1DzmKJGbbcoyH9Y00PLddIVx0R2DtIA9k?usp=sharing).
 This Colab link includes code for downloading data, analysis, and discussions for the implications. The Colab notebook has exactly the same code as the notebook (`a2/hcds-a2-data-bias.ipynb`) in this repository
 
